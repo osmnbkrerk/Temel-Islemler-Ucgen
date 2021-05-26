@@ -1,0 +1,15 @@
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\bin\Debug\netcoreapp3.1\TemelIslemler.exe
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\bin\Debug\netcoreapp3.1\TemelIslemler.deps.json
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\bin\Debug\netcoreapp3.1\TemelIslemler.runtimeconfig.json
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\bin\Debug\netcoreapp3.1\TemelIslemler.runtimeconfig.dev.json
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\bin\Debug\netcoreapp3.1\TemelIslemler.dll
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\bin\Debug\netcoreapp3.1\TemelIslemler.pdb
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\obj\Debug\netcoreapp3.1\TemelIslemler.csprojAssemblyReference.cache
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\obj\Debug\netcoreapp3.1\TemelIslemler.Form1.resources
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\obj\Debug\netcoreapp3.1\TemelIslemler.csproj.GenerateResource.cache
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\obj\Debug\netcoreapp3.1\TemelIslemler.AssemblyInfoInputs.cache
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\obj\Debug\netcoreapp3.1\TemelIslemler.AssemblyInfo.cs
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\obj\Debug\netcoreapp3.1\TemelIslemler.csproj.CoreCompileInputs.cache
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\obj\Debug\netcoreapp3.1\TemelIslemler.dll
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\obj\Debug\netcoreapp3.1\TemelIslemler.pdb
+C:\Users\Osman\source\repos\TemelIslemler\TemelIslemler\obj\Debug\netcoreapp3.1\TemelIslemler.genruntimeconfig.cache
